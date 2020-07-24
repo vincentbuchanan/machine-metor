@@ -1,2 +1,2 @@
 # machine-metor
-sample repository for sample hello-world project 
+sample repository for machine-meter because this repository already had a hello-world repo.
